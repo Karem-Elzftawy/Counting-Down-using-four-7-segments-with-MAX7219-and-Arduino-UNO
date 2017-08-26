@@ -1,0 +1,9 @@
+# Kitchen_Timer
+
+Kitchen Timer Components Sheet: https://docs.google.com/spreadsheets/d/11XA6sMnEfuknHY-H5ySskMwjT1D29LsybtWcrqdFd7k/edit?usp=sharing
+
+SERIAL 4-DIGIT SEVEN SEGMENT LED DISPLAY: http://www.electronics-lab.com/project/serial-4-digit-seven-segment-led-display/
+
+LedControl Library: http://playground.arduino.cc/Main/LedControl#Seg7Control
+
+
